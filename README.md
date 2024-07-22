@@ -1,5 +1,8 @@
 # Libro Lista App
 
+## Deploy
+
+Este proyecto está desplegado en Vercel. Puedes verlo [aquí](https://libro-lista-app.vercel.app/).
 
 **Tipo**: Módulo  
 **Privado**: Sí
@@ -37,4 +40,5 @@ Para instalar y configurar el proyecto, sigue estos pasos:
 
    ```bash
    git clone https://github.com/Lordcreos/libro-lista-app.git
+   https://github.com/Lordcreos/libro-lista-app.git
    cd libro-lista-app
