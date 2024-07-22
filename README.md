@@ -36,5 +36,5 @@ Para instalar y configurar el proyecto, sigue estos pasos:
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/lordcreos/libro-lista-app.git
+   git clone https://github.com/Lordcreos/libro-lista-app.git
    cd libro-lista-app
